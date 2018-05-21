@@ -1,0 +1,3 @@
+com\ncr\nlc\evaluatehelper\ExpressionEvaluateHelperTest.class
+com\ncr\nlc\controller\NaturalLanguageCalculationControllerTest.class
+com\ncr\nlc\parserhelper\ExpressionParserHelperTest.class

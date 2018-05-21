@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ncr.nlc.controller.NaturalLanguageCalculationControllerTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.199 sec - in com.ncr.nlc.controller.NaturalLanguageCalculationControllerTest

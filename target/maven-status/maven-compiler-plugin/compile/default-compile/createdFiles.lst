@@ -1,0 +1,8 @@
+com\ncr\nlc\evaluatehelper\ExpressionEvaluateHelper.class
+com\ncr\nlc\controller\CalculationController.class
+com\ncr\nlc\controller\NaturalLanguageCalculationController.class
+com\ncr\nlc\CalculatorApplication.class
+com\ncr\nlc\enumtypes\OperandEnum.class
+com\ncr\nlc\parserhelper\ExpressionParserHelper.class
+com\ncr\nlc\enumtypes\OperatorEnum.class
+com\ncr\nlc\consolewriter\ConsoleWriter.class
